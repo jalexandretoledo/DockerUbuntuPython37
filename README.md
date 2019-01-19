@@ -2,7 +2,7 @@
 with Python 3.7 on Ubuntu 18.10
 
 This image was created as part of an answear for a Stack Overflow question
-(https://github.com/jalexandretoledo/DockerUbuntuPython37).
+(https://vi.stackexchange.com/a/18509/11384).
 
 Some useful resources:
 
